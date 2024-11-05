@@ -1,0 +1,39 @@
+/* Estilo para enlaces */
+a{
+    font-weight: bold; /*Texto en negrita*/
+    color: rgb(127, 80, 51);
+}
+
+/* Estilo para encabezados */
+h1{
+    color:red;
+    background-color:lightgray
+
+}
+
+h2, h3{
+    color:rgb(100, 51, 51);
+    background-color:lightgray
+
+}
+
+/* Estilo para listas */
+ol{
+    color:green;
+    background-color:rgb(0,51,80);
+    border-style: solid;    /*Bordes normales*/
+    border-color: black;  /*Color de los bordes*/
+    border-width: 3px;      /*Anchura de los bordes*/
+}
+
+ul{
+    background-color:rgb(51,80,127); /*Los enlaces eran del mismo color así que he puesto otro*/
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+/* Estilo para párrafos */
+p{
+    color:rgb(0,51,100)
+}

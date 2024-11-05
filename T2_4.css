@@ -1,0 +1,41 @@
+/* Estilo para enlaces */
+a{
+    font-style:italic;
+    color:rgb(102,0,102);
+}
+
+/* Estilo para encabezados */
+h1{
+    color:rgb(153,102,26);
+    background-color: lightgray;
+}
+
+h2, h3{
+    color:rgb(127,102,0);
+    background-color: lightgray;
+}
+
+/* Estilo para listas */
+ol{
+    color:black;
+    background-color: rgb(91, 230, 255); /* En varios RGB, he puesto el color que pedías ignorando los porcentajes porque a ves no eran precisos */
+    border-color:black;
+    border-style:double;
+    border-width:4px;
+}
+
+ul{
+    background-color: beige;
+    border-color:black;
+    border-style:double;
+    border-width:4px;
+}
+
+/* Estilo para párrafos */
+p{
+    font-family:serif; /* Estilo de la fuente */
+}
+
+.keyword{
+    color:rgb(128,77,0); /* No hay palabras clave en el texto */
+}

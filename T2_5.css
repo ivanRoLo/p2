@@ -1,0 +1,33 @@
+/* Estilo para enlaces */
+a{
+    font-style:bold;
+    color:rgb(15, 85, 29)
+}
+
+/* Estilo para encabezados */
+h1{
+    color:rgb(26,0,176);
+    background-color: lightgray;
+}
+
+h2, h3{
+    color:rgb(153, 130, 0);
+    background-color: lightgray;
+}
+
+/* Estilo para listas */
+ol{
+    color:white;
+    background-color: rgb(100, 0, 0);
+    border-radius:4px;
+    border-color:gray;
+    border-width:6px;
+}
+
+ul{
+    background-color: rgb(122, 87, 49);
+    border-style:solid;
+    border-radius:2px;
+    border-color:gray;
+    border-width:6px;
+}
